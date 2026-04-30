@@ -6,7 +6,7 @@ Amateur radio control and digital modes application for Yaesu FT-817, FT-818, FT
 
 ## Installation
 
-1. Download **YaesuFT8XXSuite_Setup_v2.1.0.exe** from the [Releases](../../releases/latest) page
+1. Download **YaesuFT8XXSuite_Setup_v2.1.0.exe** from above
 2. Run the installer and follow the on-screen prompts
 3. Launch the app from the desktop shortcut or Start Menu
 
